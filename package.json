@@ -1,0 +1,24 @@
+{
+    "name": "firebase-auth-angular",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^16.0.0",
+        "@angular/common": "^16.0.0",
+        "@angular/platform-browser": "^16.0.0",
+        "@angular/fire": "^7.0.0",
+        "firebase": "^9.0.0",
+        "rxjs": "^7.0.0",
+        "zone.js": "^0.11.4"
+    },
+    "devDependencies": {
+        "@angular/cli": "^16.0.0",
+        "typescript": "^4.0.0"
+    },
+    "scripts": {
+        "start": "ng serve --open",
+        "build": "ng build",
+        "test": "ng test",
+        "lint": "ng lint",
+        "e2e": "ng e2e"
+    }
+}
